@@ -11,6 +11,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^6.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tniemeye19/expert-pizza-hunt-bassoon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tniemeye19/expert-pizza-hunt-bassoon/issues"
+  },
+  "homepage": "https://github.com/tniemeye19/expert-pizza-hunt-bassoon#readme"
 }
